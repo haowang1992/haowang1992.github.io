@@ -29,5 +29,5 @@ Conference
 
 Contests
 ======
-* Large Scale 3D Human Activity Analysis Challenge in Depth Videos(ICME 2017 Workshop), Rank : 10/10 [Result](http://www.icst.pku.edu.cn/struct/icmew2017/result.html)
+* Large Scale 3D Human Activity Analysis Challenge in Depth Videos(ICME 2017 Workshop), Rank : 10/10 [result](http://www.icst.pku.edu.cn/struct/icmew2017/result.html)
  
