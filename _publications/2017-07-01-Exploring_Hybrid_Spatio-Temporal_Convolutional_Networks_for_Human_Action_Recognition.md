@@ -21,6 +21,9 @@ Convolutional neural networks have achieved great success in many computer visio
 # Result
 ![image](https://haowang1992.github.io/files/MTAP17/Result.png)
 
+---
+[Download paper here](https://link.springer.com/content/pdf/10.1007%2Fs11042-017-4514-3.pdf)
+
 
 ---
 # Citation
