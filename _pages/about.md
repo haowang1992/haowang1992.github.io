@@ -16,11 +16,9 @@ News
 
 Recent Publications
 ======
-
 Journal
 ------
 Exploring Hybrid Spatio-Temporal Convolutional Networks for Human Action Recognition, Multimedia Tools and Applications(MTAP), 2017, [pdf](https://link.springer.com/content/pdf/10.1007%2Fs11042-017-4514-3.pdf) [project](https://haowang1992.github.io/publication/2017-07-01-Exploring_Hybrid_Spatio-Temporal_Convolutional_Networks_for_Human_Action_Recognition) [code soon]()
-
 
 Conference
 ------
