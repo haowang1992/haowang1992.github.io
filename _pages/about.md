@@ -12,7 +12,7 @@ I am currently a first year PhD candidate co-supervised by Pro. [Wei Liu](http:/
 
 News
 ======
-* 2017-03-28 : One paper is accepted by Multimedia Tools and Application(MTAP). 
+* 2017-02-15 : One paper is accepted by Multimedia Tools and Application(MTAP). 
 
 Recent Publications
 ======
