@@ -22,8 +22,8 @@ Convolutional neural networks have achieved great success in many computer visio
 
 ---
 # Download
-[pdf](https://link.springer.com/content/pdf/10.1007%2Fs11042-017-4514-3.pdf)
-[code soon]()
+[[pdf]](https://link.springer.com/content/pdf/10.1007%2Fs11042-017-4514-3.pdf)
+[[code soon]]()
 
 
 ---
