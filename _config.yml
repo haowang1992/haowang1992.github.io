@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hao Wang"
 title_separator          : "-"
 name                     : &name "Hao Wang"
-description              : &description "PhD student at Xidian University"
+description              : &description "Personal Site"
 url                      : https://haowang1992.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "haowang1992/haowang1992.github.io"
@@ -68,7 +68,7 @@ author:
   location         : "Xi'an"
   employer         :
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "hwang_xidian@163.com"
   uri              :
   bitbucket        :
   codepen          :
