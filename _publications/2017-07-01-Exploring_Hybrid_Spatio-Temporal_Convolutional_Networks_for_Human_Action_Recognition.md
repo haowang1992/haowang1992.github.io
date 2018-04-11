@@ -13,12 +13,12 @@ Convolutional neural networks have achieved great success in many computer visio
 
 ---
 # Framework
-![image](https://haowang1992.github.io/files/MTAP17/Framework.png)
+![image](/files/MTAP17/Framework.png)
 
 ---
 # Result
-![image](https://haowang1992.github.io/files/MTAP17/Result.png)
-![image](https://haowang1992.github.io/files/MTAP17/ResultSOA.png)
+![image](/files/MTAP17/Result.png)
+![image](/files/MTAP17/ResultSOA.png)
 
 ---
 # Download
