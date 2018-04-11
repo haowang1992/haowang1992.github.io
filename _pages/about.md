@@ -21,9 +21,7 @@ Recent Publications
 
 Journal
 ------
-"Exploring Hybrid Spatio-Temporal Convolutional Networks for Human Action Recognition, MTAP 2017"
-
-"Exploring Hybrid Spatio-Temporal Convolutional Networks for Human Action Recognition, MTAP 2017"
+Exploring Hybrid Spatio-Temporal Convolutional Networks for Human Action Recognition, MTAP 2017, [pdf](https://link.springer.com/content/pdf/10.1007%2Fs11042-017-4514-3.pdf)[project](https://haowang1992.github.io/publication/2017-07-01-Exploring_Hybrid_Spatio-Temporal_Convolutional_Networks_for_Human_Action_Recognition)[](code soon)
 
 
 Conference
@@ -31,5 +29,5 @@ Conference
 
 Contests
 ======
-
-
+* Large Scale 3D Human Activity Analysis Challenge in Depth Videos(ICME 2017 Workshop), Rank : 10/10 [Result](http://www.icst.pku.edu.cn/struct/icmew2017/result.html)
+ 
