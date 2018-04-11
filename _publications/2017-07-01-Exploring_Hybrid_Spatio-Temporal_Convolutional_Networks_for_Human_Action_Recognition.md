@@ -6,7 +6,7 @@ permalink: /publication/2017-07-01-Exploring_Hybrid_Spatio-Temporal_Convolutiona
 excerpt: 'Extracting features from static images, stacked optical flows and dynamic images and then performing weighted fusion to obtain 94.1% on UCF101/ 70.4% on HMDB51'
 date: 2017-07-01
 venue: 'Journal Multimedia Tools and Applications'
-paperurl: 'http://haowang1992.github.io/files/MTAP17-HybridThreeStreamAR.pdf'
+#paperurl: 'http://haowang1992.github.io/files/MTAP17-HybridThreeStreamAR.pdf'
 citation: 'Wang, H., Yang, Y., Yang, E. et al. (2009). &quot;Exploring Hybrid Spatio-Temporal Convolutional Networks for Human Action Recognition.&quot; <i>Multimed Tools Appl</i>. 76(13).'
 ---
 
