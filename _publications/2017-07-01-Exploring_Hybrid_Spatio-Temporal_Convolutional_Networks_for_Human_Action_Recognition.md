@@ -3,7 +3,7 @@ title: "Exploring Hybrid Spatio-Temporal Convolutional Networks for Human Action
 collection: publications
 permalink: /publication/2017-07-01-Exploring_Hybrid_Spatio-Temporal_Convolutional_Networks_for_Human_Action_Recognition
 
-excerpt: 'Extracting features from static images, stacked optical flows and dynamic images and then performing weighted fusion to obtain 94.1% on UCF101 / 70.4% on HMDB51'
+excerpt: 'Extracting features from static images, stacked optical flows and dynamic images and then performing weighted fusion to obtain **94.1% on UCF101 / 70.4% on HMDB51**'
 date: 2017-07-01
 venue: 'Journal Multimedia Tools and Applications'
 
