@@ -31,20 +31,12 @@ Convolutional neural networks have achieved great success in many computer visio
 Please cite the following if you find the code useful.
 
 @Article{Wang2017,
-author="Wang, Hao
-and Yang, Yanhua
-and Yang, Erkun
-and Deng, Cheng",
-title="Exploring hybrid spatio-temporal convolutional networks for human action recognition",
-journal="Multimedia Tools and Applications",
-year="2017",
-month="Jul",
-day="01",
-volume="76",
-number="13",
-pages="15065--15081",
-issn="1573-7721",
-doi="10.1007/s11042-017-4514-3",
+author="Wang, Hao and Yang, Yanhua and Yang, Erkun and Deng, Cheng",   
+title="Exploring hybrid spatio-temporal convolutional networks for human action recognition",   
+journal="Multimedia Tools and Applications",   
+year="2017", month="Jul", day="01",   
+volume="76", number="13", pages="15065--15081", issn="1573-7721",   
+doi="10.1007/s11042-017-4514-3",   
 url="https://doi.org/10.1007/s11042-017-4514-3"
 }
 
