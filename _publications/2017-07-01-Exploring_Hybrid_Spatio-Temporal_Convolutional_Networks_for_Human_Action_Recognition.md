@@ -1,5 +1,5 @@
 ---
-title: "1. Exploring Hybrid Spatio-Temporal Convolutional Networks for Human Action Recognition, MTAP 2017"
+title: "Exploring Hybrid Spatio-Temporal Convolutional Networks for Human Action Recognition, MTAP 2017"
 collection: publications
 permalink: /publication/2017-07-01-Exploring_Hybrid_Spatio-Temporal_Convolutional_Networks_for_Human_Action_Recognition
 
