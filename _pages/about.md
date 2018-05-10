@@ -33,9 +33,10 @@ Conference
 
 Contests
 ======
-* Large Scale 3D Human Activity Analysis Challenge in Depth Videos(**ICME 2017 Workshop**), Rank : 10/10 [[result]](http://www.icst.pku.edu.cn/struct/icmew2017/result.html)
+* Large Scale 3D Human Activity Analysis Challenge in Depth Videos(**ICME 2017 Workshop**), Rank : 10/10 [[result]](http://www.icst.pku.edu.cn/struct/icmew2017/result.html)  
+* iMaterialist Challenge (Furniture) at FGVC5 (**CVPR 2018 Workshop**), Rank : 14/311 [[result]](https://www.kaggle.com/c/imaterialist-challenge-furniture-2018/leaderboard)
 
  
 Friends
 ======
-[Erkun Yang](http://erkunyang.com)(Xidian University) [Chao Li](https://chaoli1991.github.io/)(Xidian University) [Zeyu Li](https://zeyuli1990.github.io/)(Xidian University) [De Xie](https://shadowxiede.github.io/)(Xidian University) [Zhiyuan Dang](https://zhiyuandang.github.io/)(Xidian University) [Jiexi Yan](https://JiexiYan.github.io)(Xidian University)
+[Erkun Yang](https://yangerkun.github.io/)(Xidian University) [Chao Li](https://chaoli1991.github.io/)(Xidian University) [Zeyu Li](https://zeyuli1990.github.io/)(Xidian University) [De Xie](https://shadowxiede.github.io/)(Xidian University) [Zhiyuan Dang](https://zhiyuandang.github.io/)(Xidian University) [Jiexi Yan](https://JiexiYan.github.io)(Xidian University)

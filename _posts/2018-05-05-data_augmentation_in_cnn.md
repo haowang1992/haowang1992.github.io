@@ -8,4 +8,4 @@ tags:
   - blog
 ---
 
-This is my first blog post. There be more posts from today! 
+Deep learning need large-scale labeled data. In order to train deep CNN with limited data, 
