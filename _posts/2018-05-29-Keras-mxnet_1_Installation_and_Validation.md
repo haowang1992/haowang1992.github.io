@@ -8,7 +8,7 @@ tags:
   - Installation and Validation
 ---
 
-[Keras is a high-level neural networks API in Python and capable of running on the top of Tensorflow, CNTK, Theano or Mxnet. It was developed with a focus on enabling fast experimentation. Bing able to go from idea to result with the least possible delay is key to doing good research.](https://keras.io/)
+Keras is a high-level neural networks API in Python and capable of running on the top of Tensorflow, CNTK, Theano or Mxnet. It was developed with a focus on enabling fast experimentation. Bing able to go from idea to result with the least possible delay is key to doing good research. -- from [Keras.io](https://keras.io/)
 
 
 # Table of Contents
@@ -40,4 +40,42 @@ Then we validation the installation by:
        Using mxnet backend
 ```
 
-## 2 Train MNIST Classification Model  
+## 2 Train MNIST Classification Model   
+
+```
+Using MXNet backend
+Downloading data from [https://s3.amazonaws.com/img-datasets/mnist.npz](https://s3.amazonaws.com/img-datasets/mnist.npz)  
+... ...  
+60000 train samples
+
+10000 test samples
+
+_________________________________________________________________
+
+Layer (type)                 Output Shape              Param #   
+
+=================================================================
+
+dense_1 (Dense)              (None, 512)               401920    
+_________________________________________________________________
+
+dropout_1 (Dropout)          (None, 512)               0         
+_________________________________________________________________
+
+dense_2 (Dense)              (None, 512)               262656    
+_________________________________________________________________
+
+dropout_2 (Dropout)          (None, 512)               0         
+_________________________________________________________________
+
+dense_3 (Dense)              (None, 10)                5130      
+  
+=================================================================  
+Total params: 669,706  
+Trainable params: 669,706  
+Non-trainable params: 0  
+________________________________________________________________  
+Train on 60000 samples, validate on 10000 samples  
+```
+
+Congratulations! You are using Keras with MXNet as backend!  
