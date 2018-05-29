@@ -46,10 +46,8 @@ Then we validation the installation by:
 Using MXNet backend
 Downloading data from [https://s3.amazonaws.com/img-datasets/mnist.npz](https://s3.amazonaws.com/img-datasets/mnist.npz)  
 ... ...  
-60000 train samples
-
-10000 test samples
-
+60000 train samples  
+10000 test samples  
 _________________________________________________________________
 
 Layer (type)                 Output Shape              Param #   
