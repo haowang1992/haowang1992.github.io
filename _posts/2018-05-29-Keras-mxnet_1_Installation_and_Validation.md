@@ -13,10 +13,31 @@ tags:
 
 # Table of Contents
 
-1. [Install Keras with Apache MXNet backend](#1-install-keras-with-apache-mxnet-backend)
+1. [Install Keras with Apache MXNet backend](#1-install-keras-with-apache-mxnet-backend)  
+2. [Train MNIST classification model](#2-train-mnist-classification-model)  
+
+
+## 1 Install Keras with Apache MXNet backend
 
 ```bash
    $ pip/pip3 install h5py graphviz pydot --user
    $ pip/pip3 install mxnet-mkl --user
    $ pip/pip3 install keras-mxnet --user
 ```
+
+When the Keras-mxnet and MXNet is installed, modify the ~/.keras.json and setting are:
+
+```json
+   backend: mxnet
+   image_data_format: channel_first
+```
+
+Then we validation the installation by:
+
+```bash
+   $python
+   >>> import keras as K
+       Using mxnet backend
+```
+
+## 2 Train MNIST Classification Model  
