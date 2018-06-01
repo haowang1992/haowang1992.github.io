@@ -29,7 +29,7 @@ When the Keras-mxnet and MXNet is installed, modify the ~/.keras.json and settin
 
 ```json
    backend: mxnet
-   image_data_format: channel_first
+   image_data_format: channels_first
 ```
 
 Then we validation the installation by:
