@@ -13,7 +13,7 @@ Using optimized settings and tools to speed up your code!
 
 1. [Channel First Imgae Data Format for CNN](#1-config-channel-first-image-data-format-for-cnn)
 2. [Installing Optimized MXNet Binaries](#2-install-optimized-mxnet)
-3. [Using MXNet Profiler](#3-mxnet-profiler)
+3. [Using MXNet Profiler](#3-using-mxnet-profiler)
 
 
 ## 1 Config Channle First Image Data Format for CNN
