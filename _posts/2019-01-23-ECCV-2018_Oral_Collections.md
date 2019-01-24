@@ -7,7 +7,7 @@ tags:
   - Oral Collections
 ---
 
-Oral Collections (download available, total 59) of ECCV 2018!
+Oral Collections (download available, total 59 or 60??) of ECCV 2018!
 
 
 ## Part I (15)
@@ -19,7 +19,7 @@ Oral Collections (download available, total 59) of ECCV 2018!
 [Learning with Biased Complementary Labels](https://arxiv.org/abs/1711.09535)  
 [Light Structure from Pin Motion: Simple and Accurate Point Light Calibration for Physics-based Modeling](http://www-infobiz.ist.osaka-u.ac.jp/wp-content/uploads/paper/pdf/Santo_Light_Structure_from_Pin_Motion_ECCV_2018_paper.pdf)  
 [Programmable Light Curtains](http://imagesci.ece.cmu.edu/files/paper/2018/LC_ECCV18.pdf)  
-[Learning to Separate Object Sounds by Watching Unlabeled Video](https://arxiv.org/pdf/1804.01665.pdf)
+[Learning to Separate Object Sounds by Watching Unlabeled Video](https://arxiv.org/pdf/1804.01665.pdf)  
 [Coded Two-Bucket Cameras for Computer Vision](http://openaccess.thecvf.com/content_ECCV_2018/papers/Mian_Wei_Coded_Two-Bucket_Cameras_ECCV_2018_paper.pdf)  
 [Materials for Masses: SVBRDF Acquisition with a Single Mobile Phone Image](https://arxiv.org/pdf/1804.05790v1.pdf)  
 [End-to-End Joint Semantic Segmentation of Actors and Actions in Video](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jingwei_Ji_End-to-End_Joint_Semantic_ECCV_2018_paper.pdf)  
@@ -64,7 +64,7 @@ Oral Collections (download available, total 59) of ECCV 2018!
 [Efficient Semantic Scene Completion Network with Spatial Group Convolution](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jiahui_Zhang_Efficient_Semantic_Scene_ECCV_2018_paper.pdf)  
 [Asynchronous, Photometric Feature Tracking using Events and Frames](http://openaccess.thecvf.com/content_ECCV_2018/papers/Daniel_Gehrig_Asynchronous_Photometric_Feature_ECCV_2018_paper.pdf)  
 
-## Part IV ()
+## Part IV (15)
 
 [Group Normalization](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yuxin_Wu_Group_Normalization_ECCV_2018_paper.pdf)  
 [Deep Matching Autoencoder](https://arxiv.org/pdf/1711.06047.pdf)  
