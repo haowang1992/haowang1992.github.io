@@ -32,7 +32,7 @@ Conference
 ------
 1. Semantic Adversarial Network with Multi-scale Pyramid Attention for Video Classification  
 De Xie, Cheng Deng, **Hao Wang**, Chao Li, Dapeng Tao  
-In 33rd AAAI Conference on Artificial Intelligence (**AAAI**), 2019
+In 33rd AAAI Conference on Artificial Intelligence (**AAAI**), 2019  
 [[pdf]()][[code]()]    
 
 Contests
