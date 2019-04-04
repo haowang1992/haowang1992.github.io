@@ -15,6 +15,7 @@ Lastest Update: 05/16, 2018
 
 News
 ======
+* 2018-11: One paper is accepted by AAAI 2019.
 * 2017-02-15 : One paper is accepted by Multimedia Tools and Application(**MTAP**). 
 
 
@@ -26,14 +27,14 @@ Journal
 1. Exploring Hybrid Spatio-Temporal Convolutional Networks for Human Action Recognition    
 **Hao Wang**, Yanhua Yang, Erkun Yang, Cheng Deng     
 Multimedia Tools and Applications(**MTAP**), 2017    
-[[pdf]](https://link.springer.com/content/pdf/10.1007%2Fs11042-017-4514-3.pdf) [[project]](https://haowang1992.github.io/publication/2017-07-01-Exploring_Hybrid_Spatio-Temporal_Convolutional_Networks_for_Human_Action_Recognition) [[code soon]]()
+[[pdf]](https://link.springer.com/content/pdf/10.1007%2Fs11042-017-4514-3.pdf) [[project]](https://haowang1992.github.io/publication/2017-07-01-Exploring_Hybrid_Spatio-Temporal_Convolutional_Networks_for_Human_Action_Recognition) 
 
 Conference
 ------
 1. Semantic Adversarial Network with Multi-scale Pyramid Attention for Video Classification  
 De Xie, Cheng Deng, **Hao Wang**, Chao Li, Dapeng Tao  
 In 33rd AAAI Conference on Artificial Intelligence (**AAAI**), 2019  
-[[pdf]()][[code]()]    
+[[pdf](https://arxiv.org/pdf/1903.02155.pdf)][[code coming soon]()]    
 
 Contests
 ======
