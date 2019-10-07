@@ -16,7 +16,7 @@ Lastest Update: 05/16, 2018
 News
 ======
 * 2018-11: One paper is accepted by AAAI 2019.
-* 2017-02-15 : One paper is accepted by Multimedia Tools and Application(**MTAP**). 
+* 2017-02-15 : One paper is accepted by Multimedia Tools and Application (MTAP) 2017. 
 
 
 Recent Publications
@@ -34,7 +34,7 @@ Conference
 1. Semantic Adversarial Network with Multi-scale Pyramid Attention for Video Classification  
 De Xie, Cheng Deng, **Hao Wang**, Chao Li, Dapeng Tao  
 In 33rd AAAI Conference on Artificial Intelligence (**AAAI**), 2019  
-[[pdf](https://arxiv.org/pdf/1903.02155.pdf)][[code coming soon]()]    
+[[pdf](https://arxiv.org/pdf/1903.02155.pdf)]      
 
 Contests
 ======
