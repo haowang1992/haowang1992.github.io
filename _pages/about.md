@@ -38,7 +38,7 @@ In 33rd AAAI Conference on Artificial Intelligence (**AAAI**), 2019
 
 Contests
 ======
-* iMaterialist Challenge (Furniture) at FGVC5 (**CVPR 2018 Workshop**), Rank : 8/428 [[result]](https://www.kaggle.com/c/imaterialist-challenge-furniture-2018/leaderboard) [[code]](https://github.com/haowang1992/imaterialist2018) [[models]](https://pan.baidu.com/s/1bA353cQcfm2jrv40G4n0aA)  
+* iMaterialist Challenge (Furniture) at FGVC5 (**CVPR 2018 Workshop**), Rank : 8/428 [[result]](https://www.kaggle.com/c/imaterialist-challenge-furniture-2018/leaderboard) [[code]](https://github.com/haowang1992/imaterialist2018) [[models(1.34GB)]](https://pan.baidu.com/s/1bA353cQcfm2jrv40G4n0aA)  
 * Large Scale 3D Human Activity Analysis Challenge in Depth Videos(**ICME 2017 Workshop**), Rank : 10/10 [[result]](http://www.icst.pku.edu.cn/struct/icmew2017/result.html)  
 * IJCAI-17 口碑商家客流量预测(天池大数据竞赛), Rank 1105/4046 [[result]](/files/Contests/IJCAI17-KouBei/IJCAI17-KouBei.pdf)
 
