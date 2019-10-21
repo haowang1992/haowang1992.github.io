@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a third year PhD candidate co-supervised by Pro. [Wei Liu](http://www.ee.columbia.edu/~wliu/) and Prof. [Cheng Deng](http://see.xidian.edu.cn/faculty/chdeng/) at [Xidian University](http://www.xidian.edu.cn/). Before that I obtained my B.S. degree from [Hangzhou Dianzi University](http://www.hdu.edu.cn/) in 2015.
 
-Email: Hao.Wang AT uts.edu.au, hwang_xidian AT 163.com  
+Email: Hao.Wang AT uts.edu.au  
 Lastest Update: 05/16, 2018
 
 News
