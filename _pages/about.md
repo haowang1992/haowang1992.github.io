@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hao Wang (王浩)"
+title: "Hao Wang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
