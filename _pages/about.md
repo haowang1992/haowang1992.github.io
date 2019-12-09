@@ -43,6 +43,13 @@ Contests
 * IJCAI-17 口碑商家客流量预测(天池大数据竞赛), Rank 1105/4046 [[result]](/files/Contests/IJCAI17-KouBei/IJCAI17-KouBei.pdf)
 
 
+Academic Service
+======
+Reviewer for CVPR2020  
+Reviewer for Neurocomputing  
+
+
+
  
 Friends
 ======
