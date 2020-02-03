@@ -45,8 +45,8 @@ Contests
 
 Academic Service
 ======
-Reviewer for CVPR2020  
-Reviewer for Neurocomputing  
+Reviewer for CVPR2020, ICME2020  
+Reviewer for Neurocomputing, PR  
 
 
 
