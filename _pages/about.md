@@ -32,10 +32,10 @@ Multimedia Tools and Applications(**MTAP**), 2017
 
 Conference
 ------
-1. Asymmetric Cross-Guided Attention Network for Actor and Action Video Segmentation From Natural Language Query
-**H Wang**, C Deng*, J Yan, D Tao
-In IEEE International Conference on Computer Vision (**ICCV**), 2019
-[[pdf](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Asymmetric_Cross-Guided_Attention_Network_for_Actor_and_Action_Video_Segmentation_ICCV_2019_paper.pdf)][[code]()]
+1. Asymmetric Cross-Guided Attention Network for Actor and Action Video Segmentation From Natural Language Query  
+**H Wang**, C Deng*, J Yan, D Tao  
+In IEEE International Conference on Computer Vision (**ICCV**), 2019  
+[[pdf](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Asymmetric_Cross-Guided_Attention_Network_for_Actor_and_Action_Video_Segmentation_ICCV_2019_paper.pdf)][[code]()]  
 2. Semantic Adversarial Network with Multi-scale Pyramid Attention for Video Classification  
 D Xie, C Deng*, **H Wang**, C Li, D Tao  
 In 33rd AAAI Conference on Artificial Intelligence (**AAAI**), 2019  
