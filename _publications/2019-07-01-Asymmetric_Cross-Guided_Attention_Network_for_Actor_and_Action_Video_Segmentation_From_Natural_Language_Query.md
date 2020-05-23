@@ -5,7 +5,7 @@ permalink: /publication/2019-07-01-Asymmetric_Cross-Guided_Attention_Network_for
 
 excerpt: 'Using language description to segment the actor and its action in video, SOTA performance'
 date: 2019-07-01
-venue: 'ICCV 2019'
+venue: 'ICCV'
 
 ---
 # Abstract
