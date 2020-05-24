@@ -17,7 +17,7 @@ News
 ======
 * 2019-07: One paper is accepted by ICCV 2019.
 * 2018-11: One paper is accepted by AAAI 2019.
-* 2017-02: One paper is accepted by Multimedia Tools and Application (MTAP) 2017. 
+* 2017-02: One paper is accepted by MTAP 2017. 
 
 
 Recent Publications
