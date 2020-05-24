@@ -15,9 +15,9 @@ Lastest Update: 05/16, 2018
 
 News
 ======
-* 2019-07: Two paper is accepted by ICCV 2019.
-* 2018-11: One paper is accepted by AAAI 2019.
-* 2017-02: One paper is accepted by MTAP 2017. 
+* 2019-07: Two paper accepted by ICCV 2019.
+* 2018-11: One paper accepted by AAAI 2019.
+* 2017-02: One paper accepted by MTAP 2017. 
 
 
 Recent Publications
