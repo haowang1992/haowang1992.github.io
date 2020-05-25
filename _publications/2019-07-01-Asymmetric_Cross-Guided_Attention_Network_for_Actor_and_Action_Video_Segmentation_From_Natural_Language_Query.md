@@ -33,7 +33,7 @@ Sentences and J-HMDB Sentences show that our proposed approach notably outperfor
 ---
 # Download
 [[pdf]](/files/ICCV19/acga.pdf)
-[[code soon]]()
+[[code]](https://github.com/haowang1992/ACGA)
 
 
 ---
