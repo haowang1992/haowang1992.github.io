@@ -15,6 +15,7 @@ Lastest Update: 05/16, 2018
 
 News
 ======
+* 2019-11: One paper accepted by AAAI 2020.  
 * 2019-07: Two paper accepted by ICCV 2019.
 * 2018-11: One paper accepted by AAAI 2019.
 * 2017-02: One paper accepted by MTAP 2017. 
@@ -32,15 +33,19 @@ Multimedia Tools and Applications(**MTAP**), 2017
 
 Conference
 ------
-1. Asymmetric Cross-Guided Attention Network for Actor and Action Video Segmentation From Natural Language Query  
+1. Context Modulated Dynamic Networks for Actor and Action Video Segmentation From a Sentence  
+**H Wang**, C Deng*, F Ma, Y Yang  
+In 34th AAAI Conference on Artificial Intelligence (**AAAI**), 2020  
+[[pdf](/files/AAAI20/cmdy.pdf)]  
+2. Asymmetric Cross-Guided Attention Network for Actor and Action Video Segmentation From Natural Language Query  
 **H Wang**, C Deng*, J Yan, D Tao  
 In IEEE International Conference on Computer Vision (**ICCV**), 2019  
 [[pdf](/files/ICCV19/acga.pdf)] [[project](https://haowang1992.github.io/publication/2019-07-01-Asymmetric_Cross-Guided_Attention_Network_for_Actor_and_Action_Video_Segmentation_From_Natural_Language_Query)] [[code](https://github.com/haowang1992/ACGA)]    
-2. Adversarial Fine-Grained Composition Learning for Unseen Attribute-Object Recognition  
+3. Adversarial Fine-Grained Composition Learning for Unseen Attribute-Object Recognition  
 K Wei, M Yang, **H Wang**, C Deng*, X Liu  
 In IEEE International Conference on Computer Vision (**ICCV**), 2019  
 [[pdf](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wei_Adversarial_Fine-Grained_Composition_Learning_for_Unseen_Attribute-Object_Recognition_ICCV_2019_paper.pdf)]  
-3. Semantic Adversarial Network with Multi-scale Pyramid Attention for Video Classification  
+4. Semantic Adversarial Network with Multi-scale Pyramid Attention for Video Classification  
 D Xie, C Deng*, **H Wang**, C Li, D Tao  
 In 33rd AAAI Conference on Artificial Intelligence (**AAAI**), 2019  
 [[pdf](https://arxiv.org/pdf/1903.02155.pdf)]      
