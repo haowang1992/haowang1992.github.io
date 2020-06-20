@@ -15,6 +15,8 @@ Lastest Update: 05/16, 2018
 
 News
 ======
+* 2020-04: One paper accepted by IJCAI 2020.
+* 2020-02: One paper accepted by Neurocomputing.
 * 2019-11: One paper accepted by AAAI 2020.  
 * 2019-07: Two paper accepted by ICCV 2019.
 * 2018-11: One paper accepted by AAAI 2019.
@@ -26,26 +28,34 @@ Recent Publications
 
 Journal
 ------
-1. Exploring Hybrid Spatio-Temporal Convolutional Networks for Human Action Recognition    
+1. Object and Background Disentanglement for Unsupervised Cross-Domain Person Re-Identification  
+Y Zhu, C Deng*, H Cao, **H Wang**  
+Neurocomputing, 2020  
+[pdf](https://www.sciencedirect.com/science/article/pii/S0925231220306731)    
+2. Exploring Hybrid Spatio-Temporal Convolutional Networks for Human Action Recognition    
 **H Wang**, Y Yang, E Yang, C Deng*       
 Multimedia Tools and Applications(**MTAP**), 2017    
 [[pdf]](https://link.springer.com/content/pdf/10.1007%2Fs11042-017-4514-3.pdf) [[project]](https://haowang1992.github.io/publication/2017-07-01-Exploring_Hybrid_Spatio-Temporal_Convolutional_Networks_for_Human_Action_Recognition) 
 
 Conference
 ------
-1. Context Modulated Dynamic Networks for Actor and Action Video Segmentation From a Sentence  
+1. Progressive Domain-Independent Feature Decomposition Network for Zero-Shot Sketch-Based Image Retrieval  
+X Xu, M Yang, Y Yang*, **H Wang**  
+In 29th International Joint Conference on Artificial Intelligence (**IJCAI**), 2020  
+[pdf](http://arxiv.org/pdf/2003.09869.pdf)  
+2. Context Modulated Dynamic Networks for Actor and Action Video Segmentation From a Sentence  
 **H Wang**, C Deng*, F Ma, Y Yang  
 In 34th AAAI Conference on Artificial Intelligence (**AAAI**), 2020  
 [[pdf](/files/AAAI20/cmdy.pdf)]  
-2. Asymmetric Cross-Guided Attention Network for Actor and Action Video Segmentation From Natural Language Query  
+3. Asymmetric Cross-Guided Attention Network for Actor and Action Video Segmentation From Natural Language Query  
 **H Wang**, C Deng*, J Yan, D Tao  
 In IEEE International Conference on Computer Vision (**ICCV**), 2019  
-[[pdf](/files/ICCV19/acga.pdf)] [[project](https://haowang1992.github.io/publication/2019-07-01-Asymmetric_Cross-Guided_Attention_Network_for_Actor_and_Action_Video_Segmentation_From_Natural_Language_Query)] [[code](https://github.com/haowang1992/ACGA)]    
-3. Adversarial Fine-Grained Composition Learning for Unseen Attribute-Object Recognition  
+[[pdf](/files/ICCV19/acga.pdf)] [[project](https://haowang1992.github.io/publication/2019-07-01-Asymmetric_Cross-Guided_Attention_Network_for_Actor_and_Action_Video_Segmentation_From_Natural_Language_Query)] [[code](https://github.com/haowang1992/ACGA)]   
+4. Adversarial Fine-Grained Composition Learning for Unseen Attribute-Object Recognition  
 K Wei, M Yang, **H Wang**, C Deng*, X Liu  
 In IEEE International Conference on Computer Vision (**ICCV**), 2019  
 [[pdf](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wei_Adversarial_Fine-Grained_Composition_Learning_for_Unseen_Attribute-Object_Recognition_ICCV_2019_paper.pdf)]  
-4. Semantic Adversarial Network with Multi-scale Pyramid Attention for Video Classification  
+5. Semantic Adversarial Network with Multi-scale Pyramid Attention for Video Classification  
 D Xie, C Deng*, **H Wang**, C Li, D Tao  
 In 33rd AAAI Conference on Artificial Intelligence (**AAAI**), 2019  
 [[pdf](https://arxiv.org/pdf/1903.02155.pdf)]      
