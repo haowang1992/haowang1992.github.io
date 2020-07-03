@@ -3,7 +3,7 @@ title: "ACGA"
 collection: publications
 permalink: /publication/ACGA
 
-excerpt: 'Using language description to segment the actor and its action in video, SOTA performance'
+excerpt: 'Asymmetric Cross-Guided Attention Network for Actor and Action Video Segmentation From Natural Language Query'
 date: 2019-07-01
 venue: 'ICCV'
 
