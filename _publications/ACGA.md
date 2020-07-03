@@ -1,5 +1,5 @@
 ---
-title: "Asymmetric Cross-Guided Attention Network for Actor and Action Video Segmentation From Natural Language Query, ICCV 2019"
+title: "ACGA"
 collection: publications
 permalink: /publication/ACGA
 
