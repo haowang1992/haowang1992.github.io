@@ -1,7 +1,7 @@
 ---
 title: "Asymmetric Cross-Guided Attention Network for Actor and Action Video Segmentation From Natural Language Query, ICCV 2019"
 collection: publications
-permalink: /publication/2019-07-01-Asymmetric_Cross-Guided_Attention_Network_for_Actor_and_Action_Video_Segmentation_From_Natural_Language_Query
+permalink: /publication/ACGA
 
 excerpt: 'Using language description to segment the actor and its action in video, SOTA performance'
 date: 2019-07-01
