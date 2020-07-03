@@ -7,6 +7,8 @@ excerpt: 'Asymmetric Cross-Guided Attention Network for Actor and Action Video S
 date: 2019-07-01
 venue: 'ICCV'
 
+Asymmetric Cross-Guided Attention Network for Actor and Action Video Segmentation From Natural Language Query
+
 ---
 # Abstract
 Actor and action video segmentation from natural language query aims to selectively segment the actor and its
