@@ -15,6 +15,7 @@ Lastest Update: 05/16, 2018
 
 News
 ======
+* 2020-08: One paper accepted by TIP.  
 * 2020-04: One paper accepted by IJCAI 2020.
 * 2020-02: One paper accepted by Neurocomputing.
 * 2019-11: One paper accepted by AAAI 2020.  
@@ -27,12 +28,15 @@ Recent Publications
 ======
 
 Journal
-------
-1. Object and Background Disentanglement for Unsupervised Cross-Domain Person Re-Identification  
+------  
+1. Progressive Cross-Modal Network for Zero-Shot Sketch-Based Image Retrieval  
+C Deng*, X. Xu, **H Wang**, M Yang, D Tao  
+TIP, 2020  
+2. Object and Background Disentanglement for Unsupervised Cross-Domain Person Re-Identification  
 Y Zhu, C Deng*, H Cao, **H Wang**  
 Neurocomputing, 2020  
 [[pdf](https://www.sciencedirect.com/science/article/pii/S0925231220306731)]        
-2. Exploring Hybrid Spatio-Temporal Convolutional Networks for Human Action Recognition    
+3. Exploring Hybrid Spatio-Temporal Convolutional Networks for Human Action Recognition    
 **H Wang**, Y Yang, E Yang, C Deng*       
 Multimedia Tools and Applications(**MTAP**), 2017    
 [[pdf]](https://link.springer.com/content/pdf/10.1007%2Fs11042-017-4514-3.pdf) [[project]](https://haowang1992.github.io/publication/2017-07-01-Exploring_Hybrid_Spatio-Temporal_Convolutional_Networks_for_Human_Action_Recognition) 
