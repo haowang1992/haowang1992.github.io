@@ -32,6 +32,7 @@ Journal
 1. Progressive Cross-Modal Network for Zero-Shot Sketch-Based Image Retrieval  
 C Deng*, X. Xu, **H Wang**, M Yang, D Tao  
 TIP, 2020  
+[[pdf](/files/TIP20/TIP20_PCMSN.pdf)]   
 2. Object and Background Disentanglement for Unsupervised Cross-Domain Person Re-Identification  
 Y Zhu, C Deng*, H Cao, **H Wang**  
 Neurocomputing, 2020  
