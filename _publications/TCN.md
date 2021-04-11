@@ -38,12 +38,12 @@ Zero-shot sketch-based image retrieval aims at performing sketch-based image ret
 ---
 # Motivation
 ![image](/files/Submitted2PAMI/moti.png)  
-HWS: low classification loss, high validation accuracy -> low retrieval performance  
-SWS: higher classification loss, lower validation accuracy -> higher retrieval performance  
+**HWS**: low classification loss, high validation accuracy -> low retrieval performance  
+**SWS**: higher classification loss, lower validation accuracy -> higher retrieval performance  
 
 ![image](/files/Submitted2PAMI/moti2.png)  
-HWS: more large singulars in training sketch features than image ones -> low retrieval performance  
-SWS: less large singulars in training sketch features than image ones -> higher retrieval performance  
+**HWS**: more large singulars in training sketch features than image -> low retrieval performance  
+**SWS**: less large singulars in training sketch features than image -> higher retrieval performance  
   
 ---
 
@@ -58,8 +58,8 @@ SWS: less large singulars in training sketch features than image ones -> higher 
   
 ---
 # Download
-[[pdf]](/files/Submitted2PAMI/tcn.pdf)
-[[code]](coming soon)
+[[pdf coming soon]](/files/Submitted2PAMI/tcn.pdf)
+[[code coming soon]](https://github.com/haowang1992/TCN)
 
 
 # Concat
