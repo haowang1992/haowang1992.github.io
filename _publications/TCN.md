@@ -56,12 +56,14 @@ the first one includes soft weight-shared convolutional layers (i.e., constraine
 independent batch normalization layers. Retrieval features are obtained through feature embedding network, 
 along with discrimination loss <img src="http://www.forkosh.com/mathtex.cgi? \Large \mathcal{L}_{DIS}"> and semantic metric loss <img src="http://www.forkosh.com/mathtex.cgi? \Large \mathcal{L}_{SEM}">. At training stage, 
 the guiding signals produced from teacher network as well as benchmark one-hot labels are provided to 
-calculate <img src="http://www.forkosh.com/mathtex.cgi? \Large \mathcal{L}_{DIS}">. Similarly, word vectors and uniform noise are offered to compute <img src="http://www.forkosh.com/mathtex.cgi? \Large \mathcal{L}_{SEM}">.}
+calculate <img src="http://www.forkosh.com/mathtex.cgi? \Large \mathcal{L}_{DIS}">. Similarly, word vectors and uniform noise are offered to compute <img src="http://www.forkosh.com/mathtex.cgi? \Large \mathcal{L}_{SEM}">
   
 ---
 # Result
 ![image](/files/Submitted2PAMI/res.png)  
 ![image](/files/Submitted2PAMI/res2.png)  
+![image](/files/Submitted2PAMI/res3.png)    
+![image](/files/Submitted2PAMI/res4.png)  
   
 ---
 # Download
