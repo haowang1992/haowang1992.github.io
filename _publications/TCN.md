@@ -49,12 +49,19 @@ Zero-shot sketch-based image retrieval aims at performing sketch-based image ret
 
 ---
 # Framework
-![image](/files/Submitted2PAMI/framework.png)
+![image](/files/Submitted2PAMI/framework.png)  
+Our framework consists of transferable coupled network (i.e., coupled image and sketch encoders), 
+feature embedding network, discrimination module and semantic metric module. Specifically, 
+the first one includes soft weight-shared convolutional layers (i.e., constrained with $\mathcal{L}_{SWS}$) and 
+independent batch normalization layers. Retrieval features are obtained through feature embedding network, 
+along with discrimination loss $\mathcal{L}_{DIS}$ and semantic metric loss $\mathcal{L}_{SEM}$. At training stage, 
+the guiding signals produced from teacher network as well as benchmark one-hot labels are provided to 
+calculate $\mathcal{L}_{DIS}$. Similarly, word vectors and uniform noise are offered to compute $\mathcal{L}_{SEM}$.}
   
 ---
 # Result
-![image](/files/Submitted2PAMI/res.png)
-![image](/files/Submitted2PAMI/res2.png)
+![image](/files/Submitted2PAMI/res.png)  
+![image](/files/Submitted2PAMI/res2.png)  
   
 ---
 # Download
