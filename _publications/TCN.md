@@ -30,19 +30,19 @@ accuracy. The project page is available at: https://haowang1992.github.io/public
 
 ---
 # Introduction
-![image](/files/Submitted2PAMI/intro.png)
-Zero-shot sketch-based image retrieval aims at performing sketch-based image retrieval under the realistic scenario of zero-shot learning
+![image](/files/Submitted2PAMI/intro.png)  
+Zero-shot sketch-based image retrieval aims at performing sketch-based image retrieval under the realistic scenario of zero-shot learning   
 ---
 
 ---
 # Motivation
-![image](/files/Submitted2PAMI/moti.png)
-Hard Weight-Sharing: low classification loss, high validation accuracy -> low retrieval performance  
-Soft Weight-Sharing: higher classification loss, lower validation accuracy -> higher retrieval performance  
+![image](/files/Submitted2PAMI/moti.png)  
+HWS: low classification loss, high validation accuracy -> low retrieval performance  
+SWS: higher classification loss, lower validation accuracy -> higher retrieval performance  
 
-![image](/files/Submitted2PAMI/moti2.png)
-Hard Weight-Sharing: more large singulars in training sketch features than image ones -> low retrieval performance  
-Soft Weight-Sharing: less large singulars in training sketch features than image ones -> higher retrieval performance  
+![image](/files/Submitted2PAMI/moti2.png)  
+HWS: more large singulars in training sketch features than image ones -> low retrieval performance  
+SWS: less large singulars in training sketch features than image ones -> higher retrieval performance  
 ---
 
 ---
