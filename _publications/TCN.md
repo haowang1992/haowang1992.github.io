@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/TCN
 
 excerpt: 'Transferable Coupled Network for Zero-Shot Sketch-Based Image Retrieval'
-date: 2020-11-01
+date: 2021-11-01
 venue: 'Submitted to Journal'
 
 ---
@@ -26,6 +26,19 @@ into a unified formula to significantly boost the performance. Extensive experim
 large-scale datasets show that our proposed approach outperforms state-of-the-art methods to a remarkable 
 extent: by more than 12% on Sketchy, 2% on TUBerlin and 6% on QuickDraw datasets in terms of retrieval 
 accuracy. The project page is available at: https://haowang1992.github.io/publication/TCN
+
+
+---
+# Introduction
+![image](/files/Submitted2PAMI/intro.png)
+
+---
+
+---
+# Motivation
+![image](/files/Submitted2PAMI/moti.png)
+
+---
 
 ---
 # Framework
