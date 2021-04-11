@@ -31,7 +31,7 @@ accuracy. The project page is available at: https://haowang1992.github.io/public
 ---
 # Introduction
 ![image](/files/Submitted2PAMI/intro.png)
-
+Zero-shot sketch-based image retrieval aims at performing sketch-based image retrieval under the realistic scenario of zero-shot learning
 ---
 
 ---
