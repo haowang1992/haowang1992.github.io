@@ -44,18 +44,18 @@ SWS: higher classification loss, lower validation accuracy -> higher retrieval p
 ![image](/files/Submitted2PAMI/moti2.png)  
 HWS: more large singulars in training sketch features than image ones -> low retrieval performance  
 SWS: less large singulars in training sketch features than image ones -> higher retrieval performance  
-
+  
 ---
 
 ---
 # Framework
 ![image](/files/Submitted2PAMI/framework.png)
-
+  
 ---
 # Result
 ![image](/files/Submitted2PAMI/res.png)
 ![image](/files/Submitted2PAMI/res2.png)
-
+  
 ---
 # Download
 [[pdf]](/files/Submitted2PAMI/tcn.pdf)
