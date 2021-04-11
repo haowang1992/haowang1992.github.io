@@ -61,6 +61,8 @@ calculate <img src="http://www.forkosh.com/mathtex.cgi? \Large \mathcal{L}_{DIS}
 ---
 # Result
 ![image](/files/Submitted2PAMI/res.png)  
+
+
 ![image](/files/Submitted2PAMI/res2.png)  
 ![image](/files/Submitted2PAMI/res3.png)    
 ![image](/files/Submitted2PAMI/res4.png)  
