@@ -42,6 +42,7 @@ Zero-shot sketch-based image retrieval aims at performing sketch-based image ret
 **SWS**: higher classification loss, lower validation accuracy -> higher retrieval performance  
 
 ![image](/files/Submitted2PAMI/moti2.png)  
+Analysis of top-30 singular values (max-normalized in each modality) with 64 dimensional features on Sketchy  
 **HWS**: more large singulars in training sketch features than image -> low retrieval performance  
 **SWS**: less large singulars in training sketch features than image -> higher retrieval performance  
   
@@ -68,6 +69,22 @@ calculate <img src="http://www.forkosh.com/mathtex.cgi? \Large \mathcal{L}_{DIS}
 ![image](/files/Submitted2PAMI/res4.png)  
   
 ---
+
+---
+# Ablation
+![image](/files/Submitted2PAMI/ab1.png)  
+Ablation studies of each component
+
+
+![image](/files/Submitted2PAMI/ab2.png)  
+The results of top-30 singular values (max-normalized in each modality) with 64 dimensional features on Sketchy  
+
+
+![image](/files/Submitted2PAMI/ab3.png)    
+t-SNE results of using 64 dimensional features on the random selected 8 testing categories of Sketchy. The dot and cross stand for natural image and sketch, respectively   
+  
+---
+
 # Download
 [[pdf coming soon]](/files/Submitted2PAMI/tcn.pdf)
 [[code coming soon]](https://github.com/haowang1992/TCN)
