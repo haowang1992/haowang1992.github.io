@@ -88,8 +88,6 @@ The dot and cross stand for natural image and sketch, respectively. Right: corre
 
 # Extension of TCN
 ![image](/files/Submitted2PAMI/ext1.png)  
-
-![image](/files/Submitted2PAMI/ab2.png)  
   
 ---
 
