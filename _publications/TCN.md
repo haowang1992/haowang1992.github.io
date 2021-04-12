@@ -24,7 +24,7 @@ knowledge while independent modules for learning modality-specific information. 
 a simple but effective semantic metric to integrate local metric learning and global semantic constraint 
 into a unified formula to significantly boost the performance. Extensive experiments on three popular 
 large-scale datasets show that our proposed approach outperforms state-of-the-art methods to a remarkable 
-extent: by more than 12% on Sketchy, 2% on TUBerlin and 6% on QuickDraw datasets in terms of retrieval 
+extent: by more than 12% on Sketchy, 2% on TU-Berlin and 6% on QuickDraw datasets in terms of retrieval 
 accuracy. The project page is available at: https://haowang1992.github.io/publication/TCN
 
 
