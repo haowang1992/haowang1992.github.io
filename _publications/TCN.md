@@ -86,6 +86,13 @@ The dot and cross stand for natural image and sketch, respectively. Right: corre
   
 ---
 
+# Extension of TCN
+![image](/files/Submitted2PAMI/ext1.png)  
+
+![image](/files/Submitted2PAMI/ab2.png)  
+  
+---
+
 # Download
 [[pdf coming soon]](/files/Submitted2PAMI/tcn.pdf)
 [[code coming soon]](https://github.com/haowang1992/TCN)
