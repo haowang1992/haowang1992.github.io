@@ -81,7 +81,8 @@ The results of top-30 singular values (max-normalized in each modality) with 64 
 
 
 ![image](/files/Submitted2PAMI/ab3.png)    
-t-SNE results of using 64 dimensional features on the random selected 8 testing categories of Sketchy. The dot and cross stand for natural image and sketch, respectively   
+Left: t-SNE results of using 64 dimensional features on the random selected 8 testing categories of Sketchy. 
+The dot and cross stand for natural image and sketch, respectively. Right: corresponding retrieval examples.  
   
 ---
 
