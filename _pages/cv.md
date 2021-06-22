@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Electronic and Information Engineering, Hangzhou Dianzi University, 2011-2015
 * M.S. in Electronic Engineering, Xidian University, 2015-2017
-* Ph.D in Electronic Engineering, Xidian University, 2017 - present
+* Ph.D in Electronic Engineering, Xidian University, 2017 - 2021
  
 Skills
 ======
