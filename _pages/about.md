@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third year PhD candidate co-supervised by Pro. Wei Liu and Prof. [Cheng Deng](http://see.xidian.edu.cn/faculty/chdeng/) at [Xidian University](http://www.xidian.edu.cn/). Before that I obtained my B.S. degree from [Hangzhou Dianzi University](http://www.hdu.edu.cn/) in 2015.
+I am going to work as an Engineer in Huawei. I obtained PhD degree at Xidian University in 2021, co-supervised by Pro. Wei Liu and Prof. [Cheng Deng](http://see.xidian.edu.cn/faculty/chdeng/) at [Xidian University](http://www.xidian.edu.cn/). Before that I obtained my B.S. degree from [Hangzhou Dianzi University](http://www.hdu.edu.cn/) in 2015.
 
-Email: Hao.Wang AT uts.edu.au  
-Lastest Update: 05/16, 2018
+Email: hwang_xidian AT 163.com 
+Lastest Update: 22 June, 2021
 
 News
 ======  
+* 2021-06: I obtained my PhD Degree!
 * 2021-04: One paper accepted by IJCAI 2021.  
 * 2020-08: One paper accepted by TIP.  
 * 2020-04: One paper accepted by IJCAI 2020.
@@ -48,7 +49,7 @@ Conference
 1. Domain-Smoothing Network for Zero-Shot Sketch-Based Image Retrieval    
 Z Wang, **H Wang**, J Yan, A Wu, C Deng*     
 In 30th International Joint Conference on Artificial Intelligence (**IJCAI**), 2021  
-[[pdf]()]   
+[[pdf]()][[code](https://github.com/haowang1992/DSN)]     
 2. Progressive Domain-Independent Feature Decomposition Network for Zero-Shot Sketch-Based Image Retrieval  
 X Xu, M Yang, Y Yang*, **H Wang**  
 In 29th International Joint Conference on Artificial Intelligence (**IJCAI**), 2020  
@@ -79,7 +80,7 @@ Contests
 
 Academic Service
 ======
-Reviewer for CVPR2020,2021, ICML202, ICME2020, ACCV2020, WACV2021   
+Reviewer for CVPR2020,2021, ICML202, ICME2020, ACCV2020, WACV2021, WACV2022   
 Reviewer for Neurocomputing, PR, IJIS  
 
 
